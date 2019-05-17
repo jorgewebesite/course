@@ -1,2 +1,2 @@
 # course
-el interes de esta pagina es solo personal  no tiene fines comerciales ni informativos de uso privativo del desarrollador. 
+El único interes de esta pagina es solo personal  no tiene ningún fin comercial o informativos es solo de uso privativo del desarrollador. 
